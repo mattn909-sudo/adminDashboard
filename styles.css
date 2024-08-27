@@ -67,7 +67,7 @@ ul{
 input[type="text"]{
     height: 2.5rem;
     font-size: 1.3rem;
-    width: 50rem;
+    width: max(50rem, 100%);
     border: none;
     border-radius: 10px;
     box-shadow: 1px 3px 5px #4cb5ee;

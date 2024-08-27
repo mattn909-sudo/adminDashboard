@@ -6,3 +6,5 @@ This is a dashboard which records current projects that users are working on. Th
 Technology used:
 HTML
 CSS
+
+Link to live preview: https://mattn909-sudo.github.io/adminDashboard/
